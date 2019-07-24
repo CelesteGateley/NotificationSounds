@@ -1,0 +1,9 @@
+name: NotificationSound
+version: ${project.version}
+main: NotificationSound
+api-version: 1.13
+authors: [CelesteMagisteel]
+description: Plays a ping sound in chat
+commands:
+  notify:
+    usage: notify <name>

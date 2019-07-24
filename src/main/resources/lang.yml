@@ -1,0 +1,5 @@
+prefix: "&7[&9Notification&7]"
+userNotFound: "&4No user by that name is logged in!"
+invalidUsageDing: "&4Invalid Command Usage! Correct Usage: &c/notify <player>"
+dingTarget: "&9You have been pinged by %sender%"
+dingSender: "&9Successfully sent ping to %target%"
